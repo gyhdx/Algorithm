@@ -76,3 +76,29 @@ public class Solution {
 
 [解题代码地址](https://github.com/gyhdx/Algorithm/blob/master/src/wf/jianzhi_offer/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.java) 
 
+4.从尾到头打印链表
+
+题目描述
+
+输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。假设输入的前序遍历和中序遍历的结果中都不含重复的数字。例如输入前序遍历序列{1,2,4,7,3,5,6,8}和中序遍历序列{4,7,2,1,5,3,8,6}，则重建二叉树并返回。
+
+题示代码：
+
+    /**
+     * Definition for binary tree
+     * public class TreeNode {
+     *     int val;
+     *     TreeNode left;
+     *     TreeNode right;
+     *     TreeNode(int x) { val = x; }
+     * }
+     */
+    public class Solution {
+        public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
+            
+        }
+    }
+
+[解题代码地址](https://github.com/gyhdx/Algorithm/blob/master/src/wf/jianzhi_offer/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.java ) 
+
+
