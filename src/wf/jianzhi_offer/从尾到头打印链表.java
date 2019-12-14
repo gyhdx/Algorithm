@@ -16,15 +16,7 @@ import java.util.ArrayList;
  数组集合中； 因为递归的特性，所以必然是链表结尾的值先进入集合中。
   */
 
-class ListNode {//这是题目给的
 
-    int val;
-    ListNode next = null;
-
-    ListNode(int val) {
-      this.val = val;
-    }
-}
 
 public class 从尾到头打印链表 {
 
