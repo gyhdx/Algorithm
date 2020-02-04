@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树的后序遍历序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/test/t2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/复杂链表的复制.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,11 +18,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树的后序遍历序列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="351">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉树中和为某一值的路径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#322#342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/复杂链表的复制.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="34" selection-start-line="34" selection-end-line="62" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/RandomListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,6 +134,9 @@
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/栈的压入_弹出序列.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/从上往下打印二叉树.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/二叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/复杂链表的复制.java" />
       </list>
     </option>
   </component>
@@ -242,113 +279,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.二叉搜索树的后序遍历序列">
-    <configuration name="调整数组顺序使奇数位于偶数前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.调整数组顺序使奇数位于偶数前面" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉搜索树的后序遍历序列" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数值的整数次方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数值的整数次方" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数组中重复的数字" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="银行家算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.qt.银行家算法" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.qt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.序列化二叉树" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旋转数组的最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.旋转数组的最小数字" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.顺时针打印矩阵" />
+  <component name="RunManager" selected="Application.复杂链表的复制">
+    <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.复杂链表的复制" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -490,6 +423,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉搜索树的后序遍历序列" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="合并两个排序的链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.合并两个排序的链表" />
       <module name="算法" />
@@ -620,8 +566,99 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="按之字形顺序打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.按之字形顺序打印二叉树" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数值的整数次方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数值的整数次方" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数组中重复的数字" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="银行家算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.qt.银行家算法" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.qt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.序列化二叉树" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="旋转数组的最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.旋转数组的最小数字" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.顺时针打印矩阵" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -674,11 +711,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.二叉搜索树的后序遍历序列" />
+        <item itemvalue="Application.复杂链表的复制" />
         <item itemvalue="Application.栈的压入_弹出序列" />
         <item itemvalue="Application.包含min函数的栈" />
         <item itemvalue="Application.t2" />
-        <item itemvalue="Application.调整数组顺序使奇数位于偶数前面" />
       </list>
     </recent_temporary>
   </component>
@@ -742,7 +778,7 @@
       <workItem from="1577100067700" duration="6834000" />
       <workItem from="1577191836988" duration="2617000" />
       <workItem from="1578320521204" duration="4000" />
-      <workItem from="1580783796004" duration="1212000" />
+      <workItem from="1580783796004" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="二维数组查找算法">
       <created>1565004274141</created>
@@ -870,17 +906,31 @@
       <option name="project" value="LOCAL" />
       <updated>1577194378754</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="二叉搜索树的后序遍历序列">
+      <created>1580785176415</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580785176416</updated>
+    </task>
+    <task id="LOCAL-00020" summary="二叉树中和为某一值的路径">
+      <created>1580786449539</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580786449539</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136270000" />
+    <option name="totallyTimeSpent" value="139501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47362515" visible="true" weight="0.21244635" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47362515" visible="true" weight="0.21244635" />
       <window_info id="Structure" order="1" sideWeight="0.5263749" side_tool="true" weight="0.15236051" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -931,7 +981,9 @@
     <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="栈的压入_弹出序列" />
     <MESSAGE value="从上往下打印二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="从上往下打印二叉树" />
+    <MESSAGE value="二叉搜索树的后序遍历序列" />
+    <MESSAGE value="二叉树中和为某一值的路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树中和为某一值的路径" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -943,30 +995,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/wf/qt/银行家算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wf/cacshAlg/FreeBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/数组中重复的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/构建乘积数组.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -1287,8 +1315,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树的后序遍历序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="351">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#322#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/复杂链表的复制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" selection-start-line="34" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
