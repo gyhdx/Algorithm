@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树与双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/数组中出现次数超过一半的数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树与双向链表.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/字符串的排列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/数组中出现次数超过一半的数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/develop/java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="815" column="16" selection-start-line="815" selection-start-column="16" selection-end-line="815" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -52,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/替换空格.java" />
-        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/重建二叉树.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/用两个栈实现队列.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/二维数组中查找.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/旋转数组的最小数字.java" />
@@ -103,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/复杂链表的复制.java" />
         <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树与双向链表.java" />
+        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/字符串的排列.java" />
+        <option value="$PROJECT_DIR$/src/wf/jianzhi_offer/数组中出现次数超过一半的数字.java" />
       </list>
     </option>
   </component>
@@ -224,9 +254,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.复杂链表的复制">
+  <component name="RunManager" selected="Application.数组中出现次数超过一半的数字">
     <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.复杂链表的复制" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.字符串的排列" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中出现次数超过一半的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数组中出现次数超过一半的数字" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -641,25 +697,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.test.t2" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.数组中出现次数超过一半的数字" />
+        <item itemvalue="Application.字符串的排列" />
         <item itemvalue="Application.复杂链表的复制" />
         <item itemvalue="Application.栈的压入_弹出序列" />
         <item itemvalue="Application.包含min函数的栈" />
-        <item itemvalue="Application.t2" />
       </list>
     </recent_temporary>
   </component>
@@ -726,7 +770,7 @@
       <workItem from="1580783796004" duration="4443000" />
       <workItem from="1580796048053" duration="1522000" />
       <workItem from="1580833272029" duration="789000" />
-      <workItem from="1580869870732" duration="2267000" />
+      <workItem from="1580869870732" duration="6501000" />
     </task>
     <task id="LOCAL-00001" summary="二维数组查找算法">
       <created>1565004274141</created>
@@ -875,17 +919,38 @@
       <option name="project" value="LOCAL" />
       <updated>1580796182113</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="二叉搜索树与双向链表">
+      <created>1580872257373</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580872257373</updated>
+    </task>
+    <task id="LOCAL-00023" summary="字符串的排列">
+      <created>1580873750305</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580873750305</updated>
+    </task>
+    <task id="LOCAL-00024" summary="字符串的排列">
+      <created>1580873802363</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1580873802363</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144079000" />
+    <option name="totallyTimeSpent" value="148313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47362515" visible="true" weight="0.22156653" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47362515" visible="true" weight="0.22156653" />
       <window_info id="Structure" order="1" sideWeight="0.5263749" side_tool="true" weight="0.15236051" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -895,7 +960,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2906846" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39842874" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39842874" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -939,7 +1004,21 @@
     <MESSAGE value="二叉搜索树的后序遍历序列" />
     <MESSAGE value="二叉树中和为某一值的路径" />
     <MESSAGE value="复杂链表的复制" />
-    <option name="LAST_COMMIT_MESSAGE" value="复杂链表的复制" />
+    <MESSAGE value="二叉搜索树与双向链表" />
+    <MESSAGE value="字符串的排列" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串的排列" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wf/jianzhi_offer/数组中出现次数超过一半的数字.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -951,30 +1030,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/wf/test/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/java/jdk1.8.0_144/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wf/cacshAlg/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11772">
-          <caret line="436" column="26" selection-start-line="436" selection-start-column="26" selection-end-line="436" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/表示数值的字符串.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1307,7 +1362,31 @@
     <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/二叉搜索树与双向链表.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="815" column="16" selection-start-line="815" selection-start-column="16" selection-end-line="815" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wf/jianzhi_offer/数组中出现次数超过一半的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
         </state>
       </provider>
     </entry>
