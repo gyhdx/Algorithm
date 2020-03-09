@@ -44,5 +44,6 @@ public class 包含min函数的栈 {
         s.pop();
         s.pop();
         System.out.println(s.min());
+
     }
 }
