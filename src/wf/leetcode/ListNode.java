@@ -1,4 +1,4 @@
-package wf.jianzhi_offer;
+package wf.leetcode;
 
 public class ListNode {
     int val;
