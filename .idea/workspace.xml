@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/求和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_20有效的括号.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/_20有效的括号.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -661,7 +659,7 @@
       <workItem from="1583506923039" duration="770000" />
       <workItem from="1583721089854" duration="6347000" />
       <workItem from="1583759261537" duration="8000" />
-      <workItem from="1583891799750" duration="4378000" />
+      <workItem from="1583891799750" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="二维数组查找算法">
       <created>1565004274141</created>
@@ -873,7 +871,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583892443629</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="_20有效的括号">
+      <created>1583914843413</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1583914843413</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -916,7 +921,8 @@
     <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="两个链表的第一个公共结点" />
     <MESSAGE value="和为S的两个数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="和为S的两个数字" />
+    <MESSAGE value="_20有效的括号" />
+    <option name="LAST_COMMIT_MESSAGE" value="_20有效的括号" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
