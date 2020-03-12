@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/_20有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/平衡二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.求和" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="和为S的两个数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.和为S的两个数字" />
       <module name="算法" />
@@ -130,97 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="wf.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="银行家算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.qt.银行家算法" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.qt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.反转链表" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的深度" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="链表中环的入口结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.链表中环的入口结点" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.斐波那契数列" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉搜索树的后序遍历序列" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,6 +244,19 @@
     </configuration>
     <configuration name="二叉树的镜像" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的镜像" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.求和" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -488,6 +398,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="银行家算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.qt.银行家算法" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.qt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.序列化二叉树" />
       <module name="算法" />
@@ -566,6 +489,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.反转链表" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的深度" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="链表中环的入口结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.链表中环的入口结点" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.斐波那契数列" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉搜索树的后序遍历序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉搜索树的后序遍历序列" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_20有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.leetcode._20有效的括号" />
       <module name="算法" />
@@ -582,7 +583,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application._20有效的括号" />
-        <item itemvalue="Application.求和" />
         <item itemvalue="Application.和为S的两个数字" />
         <item itemvalue="Application.两个链表的第一个公共结点" />
         <item itemvalue="Application.T3" />
@@ -659,7 +659,8 @@
       <workItem from="1583506923039" duration="770000" />
       <workItem from="1583721089854" duration="6347000" />
       <workItem from="1583759261537" duration="8000" />
-      <workItem from="1583891799750" duration="4850000" />
+      <workItem from="1583891799750" duration="6977000" />
+      <workItem from="1583974799851" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="二维数组查找算法">
       <created>1565004274141</created>
@@ -878,7 +879,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583914843413</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="_20有效的括号">
+      <created>1583915195993</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1583915195993</updated>
+    </task>
+    <task id="LOCAL-00033" summary="_20有效的括号">
+      <created>1583915227712</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1583915227712</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
