@@ -22,7 +22,7 @@ public class _239滑动窗口最大值 {
 //        int[] nums = {1,-1};
         int[] nums = {7,2,4};
 //        int[] nums = {};
-        int k = 2;
+        int k = 9;
         int[] ints = maxSlidingWindow(nums, k);
         for (int anInt : ints) {
             System.out.print(anInt + " ");
