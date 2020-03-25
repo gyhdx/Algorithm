@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_242有效的字母异位词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_98验证二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_114二叉树展开为链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/_239滑动窗口最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/_239滑动窗口最大值.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._98验证二叉搜索树">
+  <component name="RunManager" selected="Application._114二叉树展开为链表">
     <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.反转链表" />
       <module name="算法" />
@@ -544,8 +541,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_20有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._20有效的括号" />
+    <configuration name="_114二叉树展开为链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._114二叉树展开为链表" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -611,11 +608,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._114二叉树展开为链表" />
         <item itemvalue="Application._98验证二叉搜索树" />
         <item itemvalue="Application._242有效的字母异位词" />
         <item itemvalue="Application._239滑动窗口最大值" />
         <item itemvalue="Application._703数据流中的第K大元素" />
-        <item itemvalue="Application._20有效的括号" />
       </list>
     </recent_temporary>
   </component>
@@ -694,7 +691,7 @@
       <workItem from="1584002664415" duration="1576000" />
       <workItem from="1584064129971" duration="5070000" />
       <workItem from="1584324443008" duration="7991000" />
-      <workItem from="1585096972915" duration="2742000" />
+      <workItem from="1585096972915" duration="5341000" />
     </task>
     <task id="LOCAL-00001" summary="二维数组查找算法">
       <created>1565004274141</created>
@@ -962,7 +959,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584327518478</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="98.验证二叉搜索树">
+      <created>1585100133784</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1585100133784</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -982,7 +986,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="二维数组中查找" />
     <MESSAGE value="链表中倒数第k个节点" />
     <MESSAGE value="合并两个链表" />
     <MESSAGE value="判断B是不是A的子结构。" />
@@ -1007,7 +1010,8 @@
     <MESSAGE value="数字在排序数组中出现的次数" />
     <MESSAGE value="703.数据流中的第K大元素" />
     <MESSAGE value="239.滑动窗口最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="239.滑动窗口最大值" />
+    <MESSAGE value="98.验证二叉搜索树" />
+    <option name="LAST_COMMIT_MESSAGE" value="98.验证二叉搜索树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1016,6 +1020,11 @@
           <url>file://$PROJECT_DIR$/src/wf/leetcode/_239滑动窗口最大值.java</url>
           <line>32</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wf/leetcode/_114二叉树展开为链表.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
