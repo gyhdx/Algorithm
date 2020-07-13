@@ -99,6 +99,14 @@ public class Solution {
         }
     }
 ```
-[解题代码地址](https://github.com/gyhdx/Algorithm/blob/master/src/wf/jianzhi_offer/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.java ) 
+[解题代码地址](https://github.com/gyhdx/Algorithm/blob/master/src/wf/jianzhi_offer/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.java )
+
+
+## 算法理论讲解
+### 1.贪心算法
+通过求局部最优解以获得全局最优解 
+
+实例：_122_买卖股票的最佳时机2
+
 
 
