@@ -21,6 +21,7 @@ public class _102_二叉树的层序遍历 {
         queue.add(root);
         while (!queue.isEmpty()){
             List<Integer> list = new ArrayList<>();
+            //每次进入循环时queue的size就是queue保存的层中节点的数量
             int count = queue.size();
             for (int i = 0; i < count; i++) {
                 root = queue.remove(0);
