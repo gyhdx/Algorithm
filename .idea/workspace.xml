@@ -2,35 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/bs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/bs/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/bs/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/bs/kdxf_字符串中获取数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/bs/te.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/kdxf/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/kdxf/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/kdxf/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/kdxf/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_300最长上升子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/VIPkid/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/VIPkid/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/VIPkid/Main2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/bs360/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/bs360/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/bs360/Main2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/qz4399/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/qz4399/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/吉比特/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/吉比特/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/滴滴/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/滴滴/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/滴滴/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/爱奇艺/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/爱奇艺/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/爱奇艺/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/神策/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/神策/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/神策/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/t1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/acwing/_01背包.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_2_两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/秋招/_58同城/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/秋招/_58同城/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +61,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -105,13 +81,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._300最长上升子序列">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.VIPkid.Main" />
+  <component name="RunManager" selected="Application._01背包">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="秋招._58同城.Main1" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="秋招.VIPkid.*" />
+          <option name="PATTERN" value="秋招._58同城.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.VIPkid.Main2" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="秋招._58同城.Main2" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="秋招.VIPkid.*" />
+          <option name="PATTERN" value="秋招._58同城.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.吉比特.Main2" />
+    <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.构建乘积数组" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="秋招.吉比特.*" />
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.VIPkid.Main2_2" />
+    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.字符串的排列" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="秋招.VIPkid.*" />
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,6 +149,32 @@
     </configuration>
     <configuration name="合并两个排序的链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.合并两个排序的链表" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的下一个结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的下一个结点" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -236,8 +238,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.替换空格" />
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数组中重复的数字" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -264,19 +266,6 @@
     </configuration>
     <configuration name="跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.跳台阶" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.数组中重复的数字" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -353,77 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.构建乘积数组" />
+    <configuration name="_01背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.acwing._01背包" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.序列化二叉树" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="银行家算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.qt.银行家算法" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.qt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.字符串的排列" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的下一个结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的下一个结点" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
+          <option name="PATTERN" value="wf.acwing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,13 +368,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.t1" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01背包" />
+        <item itemvalue="Application.t1" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application._300最长上升子序列" />
-        <item itemvalue="Application.Main2 (2)" />
-        <item itemvalue="Application.Main2_2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -573,14 +510,11 @@
       <workItem from="1598496910706" duration="3091000" />
       <workItem from="1598543933416" duration="3000" />
       <workItem from="1598544395131" duration="20000" />
-      <workItem from="1598611588882" duration="6590000" />
-    </task>
-    <task id="LOCAL-00014" summary="二叉树的镜像">
-      <created>1576500045014</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1576500045014</updated>
+      <workItem from="1598611588882" duration="6968000" />
+      <workItem from="1598845883659" duration="2098000" />
+      <workItem from="1598877981825" duration="1651000" />
+      <workItem from="1598935680125" duration="826000" />
+      <workItem from="1599201773797" duration="4713000" />
     </task>
     <task id="LOCAL-00015" summary="顺时针打印矩阵">
       <created>1577104833789</created>
@@ -918,7 +852,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596010245487</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="300.最长上升子序列">
+      <created>1598619961170</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1598619961171</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -938,7 +879,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="最小的K个数" />
     <MESSAGE value="二叉树的深度" />
     <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="两个链表的第一个公共结点" />
@@ -963,7 +903,8 @@
     <MESSAGE value="120. 三角形最小路径和" />
     <MESSAGE value="152. 乘积最大子数组" />
     <MESSAGE value="322. 零钱兑换" />
-    <option name="LAST_COMMIT_MESSAGE" value="322. 零钱兑换" />
+    <MESSAGE value="300.最长上升子序列" />
+    <option name="LAST_COMMIT_MESSAGE" value="300.最长上升子序列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
