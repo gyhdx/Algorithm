@@ -3,8 +3,10 @@ package test;
 public class t1 {
 
     public static void main(String[] args) {
-        t1 t = new t1();
-        t.fun(null);
+//        t1 t = new t1();
+//        t.fun(null);
+
+        System.out.println('c');
     }
 
     public void fun(Object o){
