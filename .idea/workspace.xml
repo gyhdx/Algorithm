@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/jianzhi_offer/滑动窗口的最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_11_盛最多水的容器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_136_只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_15_三数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_3_无重复字符的最长子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_4_寻找两个正序数组的中位数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/test/TT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/搜狗/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/搜狗/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/秋招/搜狗/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_107_二叉树的层次遍历2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_141_环形链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_146_LRU缓存机制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_17_电话号码的字母组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_21_合并两个有序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_31_下一个排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_33_搜索旋转排序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_347_前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_34_在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_39_组合总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_46_全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_77_组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/秋招/cvte/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/_4_寻找两个正序数组的中位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/_4_寻找两个正序数组的中位数.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +69,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java-study/base/datastruct" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -91,59 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._136_只出现一次的数字">
-    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.滑动窗口的最大值" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.搜狗.Main2" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="秋招.搜狗.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="秋招.搜狗.Main3" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="秋招.搜狗.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="按之字形顺序打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.按之字形顺序打印二叉树" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._46_全排列">
     <configuration name="把二叉树打印成多行" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.把二叉树打印成多行" />
       <module name="算法" />
@@ -237,19 +188,6 @@
     </configuration>
     <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.从尾到头打印链表" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的下一个结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.二叉树的下一个结点" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -365,8 +303,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_136_只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._136_只出现一次的数字" />
+    <configuration name="_33_搜索旋转排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._33_搜索旋转排序数组" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -378,12 +316,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.t1" />
+    <configuration name="_347_前K个高频元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._347_前K个高频元素" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_39_组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._39_组合总和" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_46_全排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._46_全排列" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_77_组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._77_组合" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._136_只出现一次的数字" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.t1" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.滑动窗口的最大值" />
+        <item itemvalue="Application._46_全排列" />
+        <item itemvalue="Application._39_组合总和" />
+        <item itemvalue="Application._77_组合" />
+        <item itemvalue="Application._33_搜索旋转排序数组" />
+        <item itemvalue="Application._347_前K个高频元素" />
       </list>
     </recent_temporary>
   </component>
@@ -528,13 +505,9 @@
       <workItem from="1599272885767" duration="2807000" />
       <workItem from="1599301859353" duration="5615000" />
       <workItem from="1599310154559" duration="2375000" />
-    </task>
-    <task id="LOCAL-00016" summary="包含min函数的栈">
-      <created>1577106501105</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1577106501105</updated>
+      <workItem from="1599360177134" duration="13014000" />
+      <workItem from="1599461879416" duration="9691000" />
+      <workItem from="1599530653455" duration="5361000" />
     </task>
     <task id="LOCAL-00017" summary="栈的压入_弹出序列">
       <created>1577193773739</created>
@@ -872,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599224010446</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="136.只出现一次的数字">
+      <created>1599360251810</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1599360251811</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -892,7 +872,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="两个链表的第一个公共结点" />
     <MESSAGE value="和为S的两个数字" />
     <MESSAGE value="_20有效的括号" />
@@ -917,7 +896,8 @@
     <MESSAGE value="322. 零钱兑换" />
     <MESSAGE value="300.最长上升子序列" />
     <MESSAGE value="2. 两数相加" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. 两数相加" />
+    <MESSAGE value="136.只出现一次的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="136.只出现一次的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -936,6 +916,16 @@
           <url>file://$PROJECT_DIR$/src/wf/kdxf/Main1.java</url>
           <line>22</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wf/leetcode/_21_合并两个有序链表.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wf/leetcode/_22_括号生成.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
