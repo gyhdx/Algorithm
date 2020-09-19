@@ -5,8 +5,13 @@ public class t1 {
     public static void main(String[] args) {
 //        t1 t = new t1();
 //        t.fun(null);
+//        String a = "1111111111111111111111111111111111111111111";
+//        System.out.println(Integer.valueOf(a));
+//
+//        System.out.println('c');
+//        HashMap map = new HashMap();
+        System.out.println(1>>>1);
 
-        System.out.println('c');
     }
 
     public void fun(Object o){
