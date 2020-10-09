@@ -17,7 +17,25 @@ public class 连续子数组的最大和 {
     }
 
     public int FindGreatestSumOfSubArray(int[] array) {
+        int mid = array[0];
+        int ens = Integer.MIN_VALUE;
+        for (int i = 1; i < array.length; i++) {
+            if (mid <= 0){
+                mid = array[i];
+            }else {
+                mid += array[i];
+            }
+            ens = Math.max(ens,mid);
+        }
+        return ens;
+    }
 
-        return 0;
+    public int FindGreatestSumOfSubArray2(int[] array) {
+        int ens = array[0];
+        for (int i = 1; i < array.length; i++) {
+            array[i] += array[i-1]>0?array[i-1]:0;
+            ens = Math.max(ens,array[i-1]);
+        }
+        return ens;
     }
 }

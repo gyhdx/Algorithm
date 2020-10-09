@@ -4,18 +4,18 @@ package wf.jianzhi_offer;
  * 题目描述
  * 输入一个链表，反转链表后，输出新链表的表头。
  */
-public class 反转链表 {
+public class JZ15反转链表 {
 
     public static void main(String[] args) {
         ListNode listNode = new ListNode(1);
-        ListNode list = listNode;
-        list.next = new ListNode(2);
-        list = list.next;
-        list.next = new ListNode(3);
-        list = list.next;
-        list.next = new ListNode(4);
-        list = list.next;
-        list.next = new ListNode(5);
+//        ListNode list = listNode;
+//        list.next = new ListNode(2);
+//        list = list.next;
+//        list.next = new ListNode(3);
+//        list = list.next;
+//        list.next = new ListNode(4);
+//        list = list.next;
+//        list.next = new ListNode(5);
         ListNode listNode1 = ReverseList(listNode);
         print(listNode1);
     }
