@@ -19,6 +19,7 @@ public class t1 {
 //        SimpleDateFormat format = new SimpleDateFormat("yyyyMMddHH");
 //        int a = 2020100106;
 //        System.out.println(format.parse(String.valueOf(a)).toString());
+//        ReentrantLock
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(3);
@@ -28,6 +29,8 @@ public class t1 {
                 list.add(3,4);
             }
         }
+        String s = new String();
+        StringBuilder builder = new StringBuilder();
         for (Integer integer : list) {
             System.out.println(integer);
         }

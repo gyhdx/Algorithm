@@ -6,12 +6,16 @@ package wf.newcoder;
 输出在数组中第一个大于等于查找值的位置，如果数组中不存在这样的数，则输出数组长度加一。
  */
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class 二分查找 {
 
     public static void main(String[] args) {
         int[] a = {1,1,2,3,7,7,7,9,9,10};
         int i = upper_bound_(10, 2, a);
         System.out.println(i);
+        Map map = new HashMap();
     }
 
     /**

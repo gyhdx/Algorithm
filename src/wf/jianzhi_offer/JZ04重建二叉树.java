@@ -15,7 +15,7 @@ package wf.jianzhi_offer;
     使用递归，而思考问题时，不要急要捋清思路，才能做好算法题。当然常见的数据结构
     及其特性也应该掌握清楚
  */
-public class 重建二叉树 {
+public class JZ04重建二叉树 {
 
     public static void main(String[] args) {
         int[] in = {4,7,2,1,5,3,8,6};

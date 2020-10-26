@@ -18,7 +18,7 @@ import java.util.Scanner;
     （i++；相当于查询递增数组的右边的值。）； 若目标值小于右上角的数就减小列值
     （length--；相当于索引中位数的左值）；如果相等在返回true，否则返回false；
  */
-public class 二维数组中查找 {
+public class JZ01二维数组中查找 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -39,4 +39,5 @@ public class 二维数组中查找 {
         }
         return false;
     }
+
 }

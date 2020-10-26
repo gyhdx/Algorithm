@@ -12,7 +12,7 @@ package wf.jianzhi_offer;
 申请一个空的字符串，然后遍历目标串，判断其是否为空格，不是就把字符拼接到
 String字符串的尾部，是空格就拼接一个“%20”
  */
-public class 替换空格 {
+public class JZ02替换空格 {
 
     public static void main(String[] args) {
         StringBuffer s = new StringBuffer("We Are Happy");
