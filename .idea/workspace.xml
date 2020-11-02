@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_121_买卖股票的最佳时机.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_198_打家劫舍dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_215_数组中的第K个最大元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_53_最大子序和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_746_使用最小花费爬楼梯dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_08_01_三步问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_14_1_剪绳子.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_16_17_连续数列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_17_16_按摩师.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_47_礼物的最大价值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_63_股票的最大利润.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_139_单词拆分dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_62_不同路径dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_63_不同路径2dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_64_最小路径和dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_96_不同的二叉搜索树dp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/面试题/_63_股票的最大利润.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_63_股票的最大利润.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,20 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._47_礼物的最大价值">
-    <configuration name="序列化二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.jianzhi_offer.序列化二叉树" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._139_单词拆分dp">
     <configuration name="_08_01_三步问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.leetcode.面试题._08_01_三步问题" />
       <module name="算法" />
@@ -121,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1365_有多少小于当前数字的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._1365_有多少小于当前数字的数字" />
+    <configuration name="_139_单词拆分dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._139_单词拆分dp" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -147,19 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_215_数组中的第K个最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._215_数组中的第K个最大元素" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_47_礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.leetcode.面试题._47_礼物的最大价值" />
       <module name="算法" />
@@ -173,13 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_96_不同的二叉搜索树dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._96_不同的二叉搜索树dp" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._139_单词拆分dp" />
+        <item itemvalue="Application._96_不同的二叉搜索树dp" />
         <item itemvalue="Application._47_礼物的最大价值" />
         <item itemvalue="Application._14_1_剪绳子" />
         <item itemvalue="Application._08_01_三步问题" />
-        <item itemvalue="Application._215_数组中的第K个最大元素" />
-        <item itemvalue="Application._1365_有多少小于当前数字的数字" />
       </list>
     </recent_temporary>
   </component>
@@ -363,13 +345,9 @@
       <workItem from="1603869086839" duration="274000" />
       <workItem from="1603874045790" duration="1275000" />
       <workItem from="1604022517931" duration="6286000" />
-    </task>
-    <task id="LOCAL-00021" summary="复杂链表的复制">
-      <created>1580796182113</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1580796182113</updated>
+      <workItem from="1604151302744" duration="4339000" />
+      <workItem from="1604207846731" duration="4743000" />
+      <workItem from="1604292194146" duration="599000" />
     </task>
     <task id="LOCAL-00022" summary="二叉搜索树与双向链表">
       <created>1580872257373</created>
@@ -707,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603703773450</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="1365.有多少小于当前数字的数字">
+      <created>1604151341334</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1604151341335</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
