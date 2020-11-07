@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_139_单词拆分dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_62_不同路径dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_63_不同路径2dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_64_最小路径和dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_96_不同的二叉搜索树dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_1356_根据数字二进制下1的数目排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_213_打家劫舍2dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_221_最大正方形dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_264_丑数2dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_343_整数拆分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_349_两个数组的交集.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wf/leetcode/面试题/_63_股票的最大利润.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wf/leetcode/面试题/_63_股票的最大利润.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,20 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._139_单词拆分dp">
-    <configuration name="_08_01_三步问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode.面试题._08_01_三步问题" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.leetcode.面试题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._343_整数拆分">
     <configuration name="_139_单词拆分dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.leetcode._139_单词拆分dp" />
       <module name="算法" />
@@ -116,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_1_剪绳子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode.面试题._14_1_剪绳子" />
+    <configuration name="_264_丑数2dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._264_丑数2dp" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wf.leetcode.面试题.*" />
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_343_整数拆分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._343_整数拆分" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._343_整数拆分" />
+        <item itemvalue="Application._264_丑数2dp" />
         <item itemvalue="Application._139_单词拆分dp" />
         <item itemvalue="Application._96_不同的二叉搜索树dp" />
         <item itemvalue="Application._47_礼物的最大价值" />
-        <item itemvalue="Application._14_1_剪绳子" />
-        <item itemvalue="Application._08_01_三步问题" />
       </list>
     </recent_temporary>
   </component>
@@ -347,14 +347,11 @@
       <workItem from="1604022517931" duration="6286000" />
       <workItem from="1604151302744" duration="4339000" />
       <workItem from="1604207846731" duration="4743000" />
-      <workItem from="1604292194146" duration="599000" />
-    </task>
-    <task id="LOCAL-00022" summary="二叉搜索树与双向链表">
-      <created>1580872257373</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1580872257373</updated>
+      <workItem from="1604292194146" duration="7277000" />
+      <workItem from="1604395726368" duration="3499000" />
+      <workItem from="1604481215838" duration="1742000" />
+      <workItem from="1604554817202" duration="3720000" />
+      <workItem from="1604648335021" duration="2092000" />
     </task>
     <task id="LOCAL-00023" summary="字符串的排列">
       <created>1580873750305</created>
@@ -692,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604151341335</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="1365.有多少小于当前数字的数字">
+      <created>1604307600573</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1604307600574</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
