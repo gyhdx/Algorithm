@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa204d3-0c07-4b07-a832-66d142d1b534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_1356_根据数字二进制下1的数目排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_213_打家劫舍2dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_221_最大正方形dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_264_丑数2dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_343_整数拆分.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_349_两个数组的交集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_368_最大整除子集dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_5_最长回文子串dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_922_按奇偶排序数组2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wf/leetcode/_973_最接近原点的K个点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,20 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._343_整数拆分">
-    <configuration name="_139_单词拆分dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._139_单词拆分dp" />
-      <module name="算法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wf.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._922_按奇偶排序数组2">
     <configuration name="_264_丑数2dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wf.leetcode._264_丑数2dp" />
       <module name="算法" />
@@ -129,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_47_礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode.面试题._47_礼物的最大价值" />
+    <configuration name="_368_最大整除子集dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._368_最大整除子集dp" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wf.leetcode.面试题.*" />
+          <option name="PATTERN" value="wf.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,8 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_96_不同的二叉搜索树dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wf.leetcode._96_不同的二叉搜索树dp" />
+    <configuration name="_5_最长回文子串dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._5_最长回文子串dp" />
+      <module name="算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_922_按奇偶排序数组2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wf.leetcode._922_按奇偶排序数组2" />
       <module name="算法" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._922_按奇偶排序数组2" />
+        <item itemvalue="Application._5_最长回文子串dp" />
+        <item itemvalue="Application._368_最大整除子集dp" />
         <item itemvalue="Application._343_整数拆分" />
         <item itemvalue="Application._264_丑数2dp" />
-        <item itemvalue="Application._139_单词拆分dp" />
-        <item itemvalue="Application._96_不同的二叉搜索树dp" />
-        <item itemvalue="Application._47_礼物的最大价值" />
       </list>
     </recent_temporary>
   </component>
@@ -352,13 +350,10 @@
       <workItem from="1604481215838" duration="1742000" />
       <workItem from="1604554817202" duration="3720000" />
       <workItem from="1604648335021" duration="2092000" />
-    </task>
-    <task id="LOCAL-00023" summary="字符串的排列">
-      <created>1580873750305</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1580873750305</updated>
+      <workItem from="1604710495919" duration="2834000" />
+      <workItem from="1604924900939" duration="1922000" />
+      <workItem from="1604993839538" duration="4726000" />
+      <workItem from="1605171164275" duration="1668000" />
     </task>
     <task id="LOCAL-00024" summary="字符串的排列">
       <created>1580873802363</created>
@@ -696,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604307600574</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="368. 最大整除子集">
+      <created>1604710641910</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1604710641910</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,7 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="平衡二叉树" />
     <MESSAGE value="数组中只出现一次的数字" />
     <MESSAGE value="数字在排序数组中出现的次数" />
     <MESSAGE value="703.数据流中的第K大元素" />
@@ -741,7 +742,8 @@
     <MESSAGE value="46.全排列" />
     <MESSAGE value="JZ54字符流中第一个不重复的字符" />
     <MESSAGE value="1365.有多少小于当前数字的数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="1365.有多少小于当前数字的数字" />
+    <MESSAGE value="368. 最大整除子集" />
+    <option name="LAST_COMMIT_MESSAGE" value="368. 最大整除子集" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -835,6 +837,11 @@
           <url>file://$PROJECT_DIR$/src/秋招/美团/Main3.java</url>
           <line>28</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wf/leetcode/_368_最大整除子集dp.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
